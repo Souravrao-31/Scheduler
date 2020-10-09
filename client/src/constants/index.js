@@ -18,7 +18,7 @@ export const DEFAULT_FROM = 9 * 2 * 30;
 export const DEFAULT_TO = 18 * 2 * 30;
 // week days
 export const WEEK_DAYS = [
-    "Monday",
+    "",
     "Tuesday",
     "Wednesday",
     "Thursday",

@@ -14,17 +14,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wuhxxx/event-schedule-server.git"
+        "url": "git+"
     },
     "keywords": [
         "nodejs"
     ],
-    "author": "Hongxin Wu (github.com/wuhxxx)",
+    "author": "Sourav",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/wuhxxx/event-schedule-server/issues"
+        "url": " https://github.com/Souravrao-31"
     },
-    "homepage": "https://github.com/wuhxxx/event-schedule-server#readme",
+    "homepage": " ",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "body-parser": "^1.18.3",

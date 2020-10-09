@@ -7,11 +7,10 @@ export default function BottomInfo() {
     return (
         <div className="bottom-info">
             <a
-                href="https://github.com/wuhxxx/event-schedule"
+                href="https://github.com/Souravrao-31"
                 target="_blank"
                 rel="noopener noreferrer"
             >
-                <img src={github} alt="Github" className="github-logo" />
             </a>
         </div>
     );
