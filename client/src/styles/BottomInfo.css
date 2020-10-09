@@ -1,0 +1,10 @@
+.bottom-info {
+    padding: 1.2em 5%;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.github-logo {
+    width: 32px;
+    height: 32px;
+}
