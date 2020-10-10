@@ -1,5 +1,5 @@
 {
-    "name": "event-schedule",
+    "name": "scheduler",
     "version": "1.0.0",
     "description": "An event schedule web application, inspired by codyHouse's simple-schedule template",
     "main": "server.js",
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+"
+        "url": "git+https://github.com/Souravrao-31/Event-Schedule"
     },
     "keywords": [
         "nodejs"
