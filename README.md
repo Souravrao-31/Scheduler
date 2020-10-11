@@ -1,4 +1,4 @@
-# Event-Schedule
+# Sports-Schedule
 ### A Schedule Planner
 ## passportjs
 ## Nodejs
