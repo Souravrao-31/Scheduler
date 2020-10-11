@@ -3,7 +3,7 @@ module.exports = {
     // mongoDB URL
     MONGODB_URL:
         process.env.MONGODBURL ||
-        "mongodb://localhost:8000/event-schedule-server",
+        "mongodb://localhost:27017/event-schedule-server",
      //
     // regular database clean up interval
     REGULAR_CLEAN_INTERVAL: 1000 * 60 * 60 * 24 * 7,
