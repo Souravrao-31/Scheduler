@@ -80,7 +80,7 @@ class TopBar extends Component {
                 <header className="cd-main-header">
                     <div className="cd-main-header__logo">
                         <img src={logo} alt="Logo" />
-                        <span className="header-title">Event Schedule</span>
+                        <span className="header-title">Upcoming Matches</span>
                     </div>
 
                     <nav className="cd-main-nav" onClick={this.navClickHandler}>
