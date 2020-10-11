@@ -14,17 +14,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Souravrao-31/Event-Schedule"
+        "url": "git+https://github.com/Souravrao-31/Scheduler"
     },
     "keywords": [
         "nodejs"
     ],
     "author": "Sourav",
     "license": "ISC",
-    "bugs": {
-        "url": " https://github.com/Souravrao-31"
-    },
-    "homepage": " ",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "body-parser": "^1.18.3",
